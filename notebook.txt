@@ -6,3 +6,6 @@
 5. git config --global --list
 6. git clone ".git"
 
+7. yarn create react-app oparecersp
+8. dowload heroku cli
+
