@@ -27,8 +27,8 @@ class Header extends Component{
         return(
         <div className='div-principal'>
             <div className='div-name' style={this.state}>
-                <h1>KBP</h1>
-                <h4>Katte Brindes Personalizados</h4>
+                <h1>O PARECER DE SÃO PAULO</h1>
+                <h4>parecersp</h4>
             </div>
             <header id="main-header">        
                 <div>

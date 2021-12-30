@@ -10,3 +10,5 @@
 8. dowload heroku cli
 9. yarn add axios
 10. yarn add react-router-dom
+11. (or) npm uninstall react-router-dom
+12. npm install react-router-dom@5.2.0
