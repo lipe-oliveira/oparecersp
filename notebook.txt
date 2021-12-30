@@ -9,4 +9,4 @@
 7. yarn create react-app oparecersp
 8. dowload heroku cli
 9. yarn add axios
-
+10. yarn add react-router-dom
