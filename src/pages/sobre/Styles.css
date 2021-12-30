@@ -1,0 +1,15 @@
+.div-sobre{
+    margin: 10pc auto 15px;
+    padding: 0 20px;
+    min-width: 100%;
+    flex-direction: row;
+    display: inline-flex;
+    flex-wrap: wrap;
+    overflow: auto;
+    justify-content: center;
+}
+
+.div-sobre img {
+    max-width: 20pc;
+}
+

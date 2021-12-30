@@ -17,7 +17,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "g1": "git add .",
-    "g2": "git commit -m commit_msg",
+    "g2": "git commit -m commiting",
     "g3": "git push"
   },
   "eslintConfig": {
