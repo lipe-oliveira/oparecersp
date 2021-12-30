@@ -1,0 +1,8 @@
+1. npm install --global yarnnode
+2. npm install --global cross-env
+
+3. git config --global user.name "your_username"
+4. git config --global user.email "your_email_address@example.com"
+5. git config --global --list
+6. git clone ".git"
+
