@@ -2,4 +2,5 @@
 
 "O PARECER DE SÃO PAULO"
 
-Repositório oficial do semanário.
+Repositório oficial do semanário (website).
+
