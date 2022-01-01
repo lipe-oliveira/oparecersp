@@ -27,7 +27,7 @@ export default class Main extends Component{
             
             <div className='div-produtos'>
                 <div className='div-load'>
-                    KBP - Katte brindes personalizados
+                    O Parecer de São Paulo
                 </div>
                 <div className='lista-produtos'>
                     {produtos.map(produto => (
