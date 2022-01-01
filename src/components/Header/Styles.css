@@ -37,19 +37,7 @@ header#main-header{
 
 }
 
-@keyframes animate{
-    0%{
-        width: 0;
-    }
-    70%{
-        width: 100%;
-    }
-    100%{
-        width: 0;
-    }
-   
 
-}
 .div-name h4{
     margin: 5px 10px 0px;
     transition: 0.4s;
